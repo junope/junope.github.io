@@ -7,13 +7,16 @@
 # 18-10-01
 
 - 류성민
-> 개발 시작
-> git 주소는 https://github.com/junope/junope.github.io 이용
-> master branch 에서 develop branch 생성
-> 향후 개발은 develop 가지에서 진행바람
-> master는 배포용으로 쓸 예정
-> ruby 버전은 5.1.6으로 다운그레이드
+> 개발 시작  
+> git 주소는 https://github.com/junope/junope.github.io 이용  
+> master branch 에서 develop branch 생성  
+> 향후 개발은 develop 가지에서 진행바람  
+> master는 배포용으로 쓸 예정  
+> ruby 버전은 5.1.6으로 다운그레이드  
 > rails 프로젝트 생성
 >
-> 로그인 페이지 개발시작
-> sign_in branch 생성
+> 로그인 페이지 개발시작  
+> sign_in branch 생성  
+> 컨트롤러 member 생성
+> sign_in, sign_up 기반 작성
+
