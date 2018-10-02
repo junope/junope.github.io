@@ -17,6 +17,15 @@
 >
 > 로그인 페이지 개발시작  
 > sign_in branch 생성  
-> 컨트롤러 member 생성
-> sign_in, sign_up 기반 작성
+> 컨트롤러 member 생성  
+> sign_in, sign_up 기반 작성  
 
+# 18-10-02
+
+- 류성민
+> db_member 의 model 생성
+> email, password, age, nickname, realname, accepted  
+> gemfile에 rails_db설치->(실제 배포시 보안문제, 관리자권한 필요)  
+> password가 string, 보안문제 있음  
+> 회원가입과 DB연결완료  
+> 비밀번호 확인, email인증, 한민고확인질문 필요
